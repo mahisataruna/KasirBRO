@@ -15,15 +15,17 @@
 
 ## Picture
 
-- On progres.. `comingsoon bro`
+!["Splash-Login"](/lib/assets/images/name-app.png "Splash-Login")
+
 <!--
-!["dashboard"](/assets/app/dashboard.jpg "Dashboard")
 !["dashboard"](/assets/app/transaksi.jpg "Transaksi")
 !["dashboard"](/assets/app/laporan.jpg "Laporan")
 !["dashboard"](/assets/app/setting.jpg "Setting") -->
 
 ## Upcoming Feature
 
+- Splash Screen `Branding App` ✅
+- Login Page `Kasir & Barista` ✅
 - Dashboard `Grafik` ✅
 - Kasir Menu ✅
 - Barista Menu `Pesanan Customer` ✅
@@ -32,5 +34,7 @@
 - Profile `Nama Toko` ✅
 
 ## Support This Project
+
+- I would be very happy if you pressed the button below. 😁
 
 <a href="https://trakteer.id/algorithmdev" target="_blank"><img id="wse-buttons-preview" src="https://edge-cdn.trakteer.id/images/embed/trbtn-red-1.png?v=14-05-2025" height="40" style="border: 0px; height: 40px; --darkreader-inline-border-top: 0px; --darkreader-inline-border-right: 0px; --darkreader-inline-border-bottom: 0px; --darkreader-inline-border-left: 0px;" alt="Trakteer Saya" data-darkreader-inline-border-top="" data-darkreader-inline-border-right="" data-darkreader-inline-border-bottom="" data-darkreader-inline-border-left=""></a>
