@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+import '../../../core/routes/route_name.dart';
 import '../../../shared/widgets/app_button.dart';
 import '../../../shared/widgets/app_card.dart';
 import '../../../shared/widgets/app_text_field.dart';
@@ -57,7 +58,13 @@ class _LoginFormState extends State<LoginForm> {
 
           const SizedBox(height: 24),
 
-          AppButton(text: "LOGIN", icon: Icons.login, onPressed: () {}),
+          AppButton(
+            text: "LOGIN",
+            icon: Icons.login,
+            onPressed: () {
+              Navigator.pushReplacementNamed(context, RouteName.dashboard);
+            },
+          ),
         ],
       ),
     );
